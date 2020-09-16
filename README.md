@@ -1,2 +1,2 @@
-# Web-project-2021
-BTL Web 20-21
+This repository is belong to Ho Tuan Long.
+Under the colllaboration of:
